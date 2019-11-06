@@ -1,0 +1,10 @@
+{
+  "name": "html2pdf",
+  "version": "1.0.0",
+  "description": "convert html to pdf server side",
+  "main": "index.js",
+  "repository": "https://github.com/sallamx99/html2pdf.git",
+  "author": "Mohamed Sallam <sallamx99@gmail.com>",
+  "license": "UNLICENSED",
+  "private": true
+}
