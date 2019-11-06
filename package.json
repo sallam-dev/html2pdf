@@ -6,5 +6,8 @@
   "repository": "https://github.com/sallamx99/html2pdf.git",
   "author": "Mohamed Sallam <sallamx99@gmail.com>",
   "license": "UNLICENSED",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  }
 }
